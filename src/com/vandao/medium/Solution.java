@@ -1,4 +1,7 @@
-package com.vandao;
+package com.vandao.medium;
+
+import java.util.LinkedList;
+import java.util.List;
 
 /**
  * Created by Wangmingwei on 2018/6/12.
@@ -10,4 +13,6 @@ package com.vandao;
  * @ Copyright <b>火星盒子 版权所有©️2017 ️，www.rabbit.com<br>
  */
 public class Solution {
+
+
 }
